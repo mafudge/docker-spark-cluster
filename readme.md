@@ -4,7 +4,7 @@
 
 [x] **Yes, I understand this is stupid way to run a real spark cluster, and you should too.**
 
-One of the best ways to not get hired as a big data engineer would be to go bragging on linkedin about running a spark cluster on your laptop.
+My guess is one of the best ways to not get hired as a big data engineer would be to go bragging on linkedin about running a spark cluster on your laptop.
 
 You scale out when you can no longer scale up. Scaling out on single hardware is for toy / experimental / educational purposes only. 
 
