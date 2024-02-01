@@ -1,5 +1,7 @@
 # A Spark Cluster in Docker
 
+[![DOI](https://zenodo.org/badge/751398478.svg)](https://zenodo.org/doi/10.5281/zenodo.10607278)
+
 ### Disclaimer
 
 [x] **Yes, I understand this is stupid way to run a real spark cluster, and you should too.**
